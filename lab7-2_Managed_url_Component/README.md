@@ -56,3 +56,4 @@ I (27910) SENSOR: 📈 All sensors operating normally
 I (27910) LAB7-2: � Component Source: GitHub Repository
 I (27910) LAB7-2: ==========================================
 ```
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab0dde46-947b-4c9d-b9ad-2a59c8376fe3" />
