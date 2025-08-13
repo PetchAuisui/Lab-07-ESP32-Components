@@ -20,9 +20,6 @@
 3. ทดสอบด้วย QEMU
 ### ผลลัพธ์ที่ได้
 ```c
-Executing "/opt/esp/python_env/idf6.0_py3.12_env/bin/python /opt/esp/idf/tools/idf_monitor.py -p socket://localhost:5555 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 /project/lab7-2_Managed_url_Component/build/lab7-2.elf /project/lab7-2_Managed_url_Component/build/bootloader/bootloader.elf -m '/opt/esp/python_env/idf6.0_py3.12_env/bin/python' '/opt/esp/idf/tools/idf.py'"...
---- esp-idf-monitor 1.6.2 on socket://localhost:5555 115200
---- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
 I (15910) LAB7-2: 📋 Reading #2 from GitHub Component
 I (15910) SENSOR: 📊 Reading sensor data from file: ./managed_components/lab7_components/Sensors/sensor.c, line: 18
 I (15910) SENSOR: 🌡️  Temperature: 31.4°C
