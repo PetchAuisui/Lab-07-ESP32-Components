@@ -40,5 +40,6 @@ I (28244) SENSOR: 📈 All sensors operating normally
 I (28244) LAB7-2: � Component Source: GitHub Repository
 I (28244) LAB7-2: ==========================================
 ```
-<img width="1069" height="745" alt="image" src="https://github.com/user-attachments/assets/d1458980-e009-4ed9-9aad-6ce78f28ea5a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/312705cf-0eed-44e2-a580-ad412432f91c" />
+
 
