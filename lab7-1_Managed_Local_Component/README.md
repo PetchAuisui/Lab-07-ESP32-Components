@@ -36,28 +36,48 @@ idf.py build
 
 ### ผลลัพธ์ที่ได้
 ```c
-I (11417) main_task: Calling app_main()
-I (11417) LAB7-1: 🚀 Lab 7-1: Local Component Demo Started
-I (11417) SENSOR: 🔧 Sensor initialized from file: /project/components/Sensors/sensor.c, line: 12
-I (11417) SENSOR: 📡 Sensor module ready for operation
-I (11427) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
-I (11427) SENSOR: 🌡️  Temperature: 34.1°C
-I (11437) SENSOR: 💧 Humidity: 82.7%
-I (11437) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
-I (11447) SENSOR: 📈 All sensors operating normally
-I (11447) LAB7-1: ----------------------------
-I (14447) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
-I (14447) SENSOR: 🌡️  Temperature: 30.9°C
-I (14447) SENSOR: 💧 Humidity: 71.8%
-I (14447) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
-I (14447) SENSOR: 📈 All sensors operating normally
-I (14447) LAB7-1: ----------------------------
-I (17447) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
-I (17447) SENSOR: 🌡️  Temperature: 31.5°C
-I (17447) SENSOR: 💧 Humidity: 78.7%
-I (17447) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
-I (17447) SENSOR: 📈 All sensors operating normally
-I (17447) LAB7-1: ----------------------------
+I (19345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (19345) SENSOR: 🌡️  Temperature: 27.2°C
+I (19345) SENSOR: 💧 Humidity: 61.0%
+I (19345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (19345) SENSOR: 📈 All sensors operating normally
+I (19345) LAB7-1: ----------------------------
+I (22345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (22345) SENSOR: 🌡️  Temperature: 35.4°C
+I (22345) SENSOR: 💧 Humidity: 68.6%
+I (22345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (22345) SENSOR: 📈 All sensors operating normally
+I (22345) LAB7-1: ----------------------------
+I (25345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (25345) SENSOR: 🌡️  Temperature: 30.3°C
+I (25345) SENSOR: 💧 Humidity: 90.6%
+I (25345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (25345) SENSOR: 📈 All sensors operating normally
+I (25345) LAB7-1: ----------------------------
+I (28345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (28345) SENSOR: 🌡️  Temperature: 25.7°C
+I (28345) SENSOR: 💧 Humidity: 69.5%
+I (28345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (28345) SENSOR: 📈 All sensors operating normally
+I (28345) LAB7-1: ----------------------------
+I (31345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (31345) SENSOR: 🌡️  Temperature: 33.8°C
+I (31345) SENSOR: 💧 Humidity: 87.1%
+I (31345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (31345) SENSOR: 📈 All sensors operating normally
+I (31345) LAB7-1: ----------------------------
+I (34345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (34345) SENSOR: 🌡️  Temperature: 29.5°C
+I (34345) SENSOR: 💧 Humidity: 89.6%
+I (34345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (34345) SENSOR: 📈 All sensors operating normally
+I (34345) LAB7-1: ----------------------------
+I (37345) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
+I (37345) SENSOR: 🌡️  Temperature: 29.1°C
+I (37345) SENSOR: 💧 Humidity: 67.8%
+I (37345) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
+I (37345) SENSOR: 📈 All sensors operating normally
+I (37345) LAB7-1: ----------------------------
 ```
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6a876deb-c8b3-4b00-8b4b-f4dad6b36e88" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e52d0cfb-91c3-40c6-8144-4d515af6ec61" />
 
