@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-    
-=======
 # Lab 7-1: Local Component Demo
 
 ## คำอธิบาย
@@ -64,7 +61,3 @@ I (17447) LAB7-1: ----------------------------
 ```
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6a876deb-c8b3-4b00-8b4b-f4dad6b36e88" />
 
-
-
-
->>>>>>> 658c858a3a59817117be6b32dae8a635622fd786
