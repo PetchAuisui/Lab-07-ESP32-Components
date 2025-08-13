@@ -2,8 +2,6 @@
 ## โจทย์ท้าทาย
 - Result
 ```c
-Generating efuse image: /project/lab7-2_Managed_url_Component/build/qemu_efuse.bin
-Running qemu (bg): qemu-system-xtensa -M esp32 -m 4M -drive file=/project/lab7-2_Managed_url_Component/build/qemu_flash.bin,if=mtd,format=raw -drive file=/project/lab7-2_Managed_url_Component/build/qemu_efuse.bin,if=none,format=raw,id=efuse -global driver=nvram.esp32.efuse,property=drive,value=efuse -global driver=timer.esp32.timg,property=wdt_disable,value=true -nic user,model=open_eth -nographic -serial tcp::5555,server
 Executing action: monitor
 Running idf_monitor in directory /project/lab7-2_Managed_url_Component
 Executing "/opt/esp/python_env/idf6.0_py3.12_env/bin/python /opt/esp/idf/tools/idf_monitor.py -p socket://localhost:5555 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 /project/lab7-2_Managed_url_Component/build/lab7-2.elf /project/lab7-2_Managed_url_Component/build/bootloader/bootloader.elf -m '/opt/esp/python_env/idf6.0_py3.12_env/bin/python' '/opt/esp/idf/tools/idf.py'"...
@@ -43,3 +41,4 @@ I (28244) LAB7-2: � Component Source: GitHub Repository
 I (28244) LAB7-2: ==========================================
 ```
 <img width="1069" height="745" alt="image" src="https://github.com/user-attachments/assets/d1458980-e009-4ed9-9aad-6ce78f28ea5a" />
+
